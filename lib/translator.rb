@@ -1,8 +1,10 @@
 # require modules here
 
 def load_library
-  count = 0
-  while count < load_library.length do |key, value|
+ 
+load_library.each do |key, value|
+  puts "#{key}: #{value}"
+
 #   'angel' 
 #   {
 #     :english => "O:)", 
