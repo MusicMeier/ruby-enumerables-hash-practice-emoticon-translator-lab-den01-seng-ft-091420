@@ -1,10 +1,6 @@
 # require modules here
 
-def load_library
- 
-load_library.each do |key, value|
-  puts key 
-  end
+def load_library(path)
   
 end
 
