@@ -6,7 +6,7 @@ def load_library(path)
   final_hash[key] = {}
   final_hash[:english] = value[0]
   final_hash[:japanese] = value[1]
-end
+  end
 
   final_hash
 end
