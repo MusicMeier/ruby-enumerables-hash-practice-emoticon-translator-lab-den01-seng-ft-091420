@@ -7,7 +7,8 @@ def load_library
     :japanese => "☜(⌒▽⌒)☞"
   }
   
-angry: {
+angry: 
+{
     english: ">:(",
     japanese: "ヽ(ｏ`皿′ｏ)ﾉ"
   }
