@@ -4,7 +4,8 @@ def load_library(path)
   final_hash = {
    YAML.load_library
    final_hash[key] = {}
-   final_hash[]
+   final_hash[:english] = ""
+   final_hash[:japanese] = 
   }
   final_hash
 end
