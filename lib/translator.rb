@@ -1,9 +1,9 @@
 # require modules here
 
 def load_library
-  angel: {
-    english: "O:)", 
-    japanese: "☜(⌒▽⌒)☞"
+  'angel' {
+    :english => "O:)", 
+    :japanese => "☜(⌒▽⌒)☞"
   }
   
 angry: {
@@ -62,8 +62,8 @@ surprised: {
   }
   
 wink: {
-    english: ";)",
-    japanese: "(^_-)" 
+    :english => ";)",
+    :japanese => "(^_-)" 
   }
 
   
