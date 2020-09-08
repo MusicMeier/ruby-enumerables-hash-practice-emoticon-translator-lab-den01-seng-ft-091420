@@ -1,82 +1,84 @@
 # require modules here
 
 def load_library
-  'angel' 
-  {
-    :english => "O:)", 
-    :japanese => "☜(⌒▽⌒)☞"
-  }
+  count = 0
   
-'angry' 
-{
-    english: ">:(",
-    japanese: "ヽ(ｏ`皿′ｏ)ﾉ"
-  }
+#   'angel' 
+#   {
+#     :english => "O:)", 
+#     :japanese => "☜(⌒▽⌒)☞"
+#   }
   
-'bored' 
-{
-    english: ":O",
-    japanese: "(ΘεΘ;)"
-  }
+# 'angry' 
+# {
+#     english: ">:(",
+#     japanese: "ヽ(ｏ`皿′ｏ)ﾉ"
+#   }
   
-'confused' 
-{
-    english: "%)",
-    japanese: "(゜.゜)"
-  }
-'embarrassed' 
- {
-    english: ":$" ,
-    japanese: "(#^.^#)"
-  }
+# 'bored' 
+# {
+#     english: ":O",
+#     japanese: "(ΘεΘ;)"
+#   }
   
-'fish' 
-{
-    english: "><>",
-    japanese: ">゜))))彡"
-  }
+# 'confused' 
+# {
+#     english: "%)",
+#     japanese: "(゜.゜)"
+#   }
+# 'embarrassed' 
+# {
+#     english: ":$" ,
+#     japanese: "(#^.^#)"
+#   }
   
-'glasses' 
-{
-    english: "8D",
-    japanese: "(^0_0^)"
-  }
+# 'fish' 
+# {
+#     english: "><>",
+#     japanese: ">゜))))彡"
+#   }
   
-'grinning' 
-{
-    english: "=D",
-    japanese: "(￣ー￣)"
-  }
+# 'glasses' 
+# {
+#     english: "8D",
+#     japanese: "(^0_0^)"
+#   }
   
-'happy' 
-{
-    english: ":)",
-    japanese: "(＾ｖ＾)"
-  }
+# 'grinning' 
+# {
+#     english: "=D",
+#     japanese: "(￣ー￣)"
+#   }
   
-'kiss' 
-{
-    english: ":*",
-    japanese: "(*^3^)/~☆"
-  }
+# 'happy' 
+# {
+#     english: ":)",
+#     japanese: "(＾ｖ＾)"
+#   }
   
-'sad' 
-{
-    english: ":'(",
-    japanese: "(Ｔ▽Ｔ)"
-  }
+# 'kiss' 
+# {
+#     english: ":*",
+#     japanese: "(*^3^)/~☆"
+#   }
   
-'surprised' 
-{
-    english: ":o",
-    japanese: "o_O"
-  }
+# 'sad' 
+# {
+#     english: ":'(",
+#     japanese: "(Ｔ▽Ｔ)"
+#   }
   
-'wink' 
-{
-    :english => ";)",
-    :japanese => "(^_-)" 
-  }
+# 'surprised' 
+# {
+#     english: ":o",
+#     japanese: "o_O"
+#   }
+  
+# 'wink' 
+# {
+#     :english => ";)",
+#     :japanese => "(^_-)" 
+#   }
 
   
 end
