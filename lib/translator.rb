@@ -1,7 +1,8 @@
 # require modules here
 
 def load_library
-  'angel' {
+  'angel' 
+  {
     :english => "O:)", 
     :japanese => "☜(⌒▽⌒)☞"
   }
