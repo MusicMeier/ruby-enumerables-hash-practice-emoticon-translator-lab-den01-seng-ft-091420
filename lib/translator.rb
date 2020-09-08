@@ -2,7 +2,9 @@
 
 def load_library(path)
   final_hash = {
-   YAML.load_library 
+   YAML.load_library
+   final_hash[key] = {}
+   final_hash[]
   }
   final_hash
 end
