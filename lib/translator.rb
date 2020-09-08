@@ -19,23 +19,25 @@ def load_library
     japanese: "(ΘεΘ;)"
   }
   
-confused' 
+'confused' 
 {
     english: "%)",
     japanese: "(゜.゜)"
   }
-  
-embarrassed: {
+'embarrassed' 
+ {
     english: ":$" ,
     japanese: "(#^.^#)"
   }
   
-fish: {
+'fish' 
+{
     english: "><>",
     japanese: ">゜))))彡"
   }
   
-glasses: {
+glasses: 
+{
     english: "8D",
     japanese: "(^0_0^)"
   }
