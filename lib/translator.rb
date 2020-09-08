@@ -2,7 +2,7 @@
 
 def load_library
   count = 0
-  
+  while count < load_library.length do |key, value|
 #   'angel' 
 #   {
 #     :english => "O:)", 
