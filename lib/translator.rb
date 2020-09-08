@@ -13,12 +13,14 @@ def load_library
     japanese: "ヽ(ｏ`皿′ｏ)ﾉ"
   }
   
-bored: {
+'bored' 
+{
     english: ":O",
     japanese: "(ΘεΘ;)"
   }
   
-confused: {
+confused' 
+{
     english: "%)",
     japanese: "(゜.゜)"
   }
